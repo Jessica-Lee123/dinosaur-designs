@@ -2,11 +2,11 @@ html {
   box-sizing: border-box;
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  Line-height: 1.5;
+  line-height: 1.5;
 }
 
 *,
-*::before, 
+*::before,
 *::after {
   box-sizing: inherit;
 }
